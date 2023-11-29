@@ -1,0 +1,2 @@
+# sf
+Simple Fortune 
