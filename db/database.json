@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "lang": "en",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-01"
+    },
+    {
+        "id": 2,
+        "lang": "en",
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-02"
+    },
+    {
+        "id": 3,
+        "lang": "en",
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-03"
+    },
+    {
+        "id": 4,
+        "lang": "en",
+        "quote": "If life were predictable it would cease to be life, and be without flavor.",
+        "author": "Eleanor Roosevelt",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-04"
+    },
+    {
+        "id": 5,
+        "lang": "en",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-05"
+    },
+    {
+        "id": 6,
+        "lang": "en",
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-06"
+    },
+    {
+        "id": 7,
+        "lang": "en",
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-07"
+    },
+    {
+        "id": 8,
+        "lang": "en",
+        "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+        "author": "Albert Einstein",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-08"
+    },
+    {
+        "id": 9,
+        "lang": "en",
+        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-09"
+    },
+    {
+        "id": 10,
+        "lang": "en",
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "source": "",
+        "is_verified": true,
+        "added_by": "Admin",
+        "date": "2022-01-10"
+    },
+    {
+        "id": 11,
+        "lang": "bg",
+        "quote": "И тъй нататък",
+        "author": "Кърт Вонегът",
+        "source": "-",
+        "is_verified": "yes",
+        "added_by": "admin",
+        "date": "2023-05-17"
+    }
+]
