@@ -44,6 +44,3 @@ header('Content-Type: text/html');
 
 // Echo the HTML response
 echo $htmlResponse;
-
-?>
-

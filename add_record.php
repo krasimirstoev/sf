@@ -38,4 +38,3 @@ file_put_contents($databaseFile, json_encode($records, JSON_UNESCAPED_UNICODE|JS
 
 // Return a success message
 echo 'Record added successfully!';
-?>
