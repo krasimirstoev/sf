@@ -10,7 +10,15 @@ $id = $_POST['id'];
 $quoteIndex = array_search($id, array_column($quotes, 'id'));
 
 if ($quoteIndex !== false) {
-  // Remove the quote from the quotes array
+  // Ensure $quoteIndex is an integer
+  if (!is_int($quoteIndex)) {
+
+    // Optionally, you can handle the case where $quoteIndex is not an integer
+    // For example, log an error, throw an exception, or convert it to an integer
+
+    $quoteIndex = (int)$quoteIndex; // Convert $quoteIndex to an integer
+  }
+
   array_splice($quotes, $quoteIndex, 1);
 
   // Save the updated quotes to the JSON file
