@@ -16,7 +16,7 @@ if ($quoteIndex !== false) {
     // Optionally, you can handle the case where $quoteIndex is not an integer
     // For example, log an error, throw an exception, or convert it to an integer
 
-    $quoteIndex = (int)$quoteIndex; // Convert $quoteIndex to an integer
+    $quoteIndex = (int) $quoteIndex; // Convert $quoteIndex to an integer
   }
 
   array_splice($quotes, $quoteIndex, 1);
